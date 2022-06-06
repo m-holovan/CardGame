@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\CardGame\bin\Debug\netcoreapp3.1\CardGame.exe
+C:\Users\User\Desktop\CardGame\bin\Debug\netcoreapp3.1\CardGame.deps.json
+C:\Users\User\Desktop\CardGame\bin\Debug\netcoreapp3.1\CardGame.runtimeconfig.json
+C:\Users\User\Desktop\CardGame\bin\Debug\netcoreapp3.1\CardGame.runtimeconfig.dev.json
+C:\Users\User\Desktop\CardGame\bin\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\User\Desktop\CardGame\bin\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\User\Desktop\CardGame\obj\Debug\netcoreapp3.1\CardGame.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CardGame\obj\Debug\netcoreapp3.1\CardGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CardGame\obj\Debug\netcoreapp3.1\CardGame.AssemblyInfo.cs
+C:\Users\User\Desktop\CardGame\obj\Debug\netcoreapp3.1\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CardGame\obj\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\User\Desktop\CardGame\obj\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\User\Desktop\CardGame\obj\Debug\netcoreapp3.1\CardGame.genruntimeconfig.cache
+C:\Users\User\Desktop\Проекты на .NET\CardGame\bin\Debug\netcoreapp3.1\CardGame.exe
+C:\Users\User\Desktop\Проекты на .NET\CardGame\bin\Debug\netcoreapp3.1\CardGame.deps.json
+C:\Users\User\Desktop\Проекты на .NET\CardGame\bin\Debug\netcoreapp3.1\CardGame.runtimeconfig.json
+C:\Users\User\Desktop\Проекты на .NET\CardGame\bin\Debug\netcoreapp3.1\CardGame.runtimeconfig.dev.json
+C:\Users\User\Desktop\Проекты на .NET\CardGame\bin\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\User\Desktop\Проекты на .NET\CardGame\bin\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\User\Desktop\Проекты на .NET\CardGame\obj\Debug\netcoreapp3.1\CardGame.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Проекты на .NET\CardGame\obj\Debug\netcoreapp3.1\CardGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Проекты на .NET\CardGame\obj\Debug\netcoreapp3.1\CardGame.AssemblyInfo.cs
+C:\Users\User\Desktop\Проекты на .NET\CardGame\obj\Debug\netcoreapp3.1\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проекты на .NET\CardGame\obj\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\User\Desktop\Проекты на .NET\CardGame\obj\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\User\Desktop\Проекты на .NET\CardGame\obj\Debug\netcoreapp3.1\CardGame.genruntimeconfig.cache
