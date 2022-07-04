@@ -32,16 +32,13 @@ namespace CardGame
             {
                 isRemember = false;
                 Console.WriteLine("\nTranslation of this word");
-                Console.WriteLine(GetTranslation());
+                Console.WriteLine(Translation);
             }
         }
-        public string GetTranslation()
-        {
-            return this.Translation;
-        }
+
 
         public bool isRemember = false;
-        public string Word;
-        public string Translation;
+        private string Word { get; }
+        private string Translation { get; }
     }
 }
