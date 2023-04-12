@@ -15,6 +15,7 @@ namespace CardGame
         {
             return this.Word;
         }
+        //method for user`s choice 
         public void ChooseOperation()
         {
             Console.WriteLine("\nChoose operation:");
@@ -36,7 +37,7 @@ namespace CardGame
             }
         }
 
-
+        //if player remember translation of word this value will be true
         public bool isRemember = false;
         private string Word { get; }
         private string Translation { get; }

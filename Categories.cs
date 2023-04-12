@@ -6,8 +6,10 @@ namespace CardGame
 {
     public class Categories
     {
+        //create list of decks category
         public List<Deck> decks_category = new List<Deck>();
 
+        //method to add new deck by player
         public void AddDeckMenu()
         {
             Console.WriteLine("Enter name of the deck:");
@@ -22,9 +24,12 @@ namespace CardGame
                 word = Console.ReadLine();
             }
         }
+
+        //method for player`s choice of category
         public void ChooseCategory()
         {
             Console.WriteLine("\nChoose category");
+            //this loop show all decks category
             for (int i = 0; i < decks_category.Count; i++)
             {
                 Console.WriteLine($"{decks_category[i].category}");
@@ -39,14 +44,14 @@ namespace CardGame
             }
             else if (category == "exit game")
             {
-                Environment.Exit(-1);
+                Environment.Exit(0);//if player want to close the game
             }
             else
             {
                 Console.WriteLine("\nHow many cards you want?");
                 Console.Write("\nYour number:");
                 int num_cards = Convert.ToInt32(Console.ReadLine());
-
+                //here player can choose how many cards he want to see
                 for (int i = 0; i < decks_category.Count; i++)
                 {
                     if (decks_category[i].category == category)
@@ -56,6 +61,7 @@ namespace CardGame
                 }
             }
         }
+        //constructor to add new deck
         public void AddDeck(string deck_name)
         {
             Deck newDeck = new Deck(deck_name);
